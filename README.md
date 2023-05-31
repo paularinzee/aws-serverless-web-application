@@ -6,7 +6,7 @@ The application will present users with an HTML based user interface for indicat
 ### AWS Infrastructure Diagram
 <p align="center">
   <kbd>
-    <img src="https://github.com/paularinzee/Serverless_Architecture.png"></img>
+    <img src="https://github.com/paularinzee/serverless-web-application/blob/master/Serverless_Architecture.png"></img>
   </kbd>
 </p>
 
